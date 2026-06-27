@@ -24,5 +24,5 @@ npm start
 
 # GIF проекта
 <a>
-<img src="https://files.catbox.moe/58y465.gif" width="600" alt="мяумяу">
+  <img src="https://files.catbox.moe/58y465.gif" width="600" alt="мяумяу">
 </a>
