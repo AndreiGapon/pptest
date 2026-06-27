@@ -5,7 +5,7 @@
 Веб-сайт для управления списком задач и сохранение языка. С сортировкой задач по активным и выполненным, с возможностью отметить все.
 
 # Бейдж CodeFactor
-[![Code Coverage](https://qlty.sh/gh/AndreiGapon/projects/pptest/coverage.svg)](https://qlty.sh/gh/AndreiGapon/projects/pptest)
+[![Maintainability](https://qlty.sh/gh/AndreiGapon/projects/pptest/maintainability.png)](https://qlty.sh/gh/AndreiGapon/projects/pptest)
 # Стек технологий 
 
 html CSS javascript localStorage
