@@ -15,11 +15,6 @@
     "jsdom-global": "^3.0.2",
     "live-server": "^1.1.0"
   },
-  "scripts": {
-    "check-coverage": "nyc check-coverage --statements 100 --functions 100 --lines 100 --branches 100",
-    "start": "node lib/server.js",
-    "dev": "live-server"
-  },
   "keywords": [
     "Todo List",
     "TodoMVC",
