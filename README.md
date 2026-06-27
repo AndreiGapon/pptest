@@ -23,4 +23,4 @@ npm start
 ```
 
 # GIF проекта
-<img src="pptest/gif-for-gif.gif" width="600">
+<img src="gif-for-gif.gif" width="600">
