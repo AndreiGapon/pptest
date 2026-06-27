@@ -23,4 +23,4 @@ npm start
 ```
 
 # GIF проекта
-<img src="/javascript-todo-list-tutorial//assets/gif-for-gif.gif" width="600" alt="мяумяу">
+<img src="https://files.catbox.moe/58y465.gif" width="600" alt="мяумяу">
