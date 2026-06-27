@@ -4,6 +4,10 @@
 
 Веб-сайт для управления списком задач и сохранение языка. С сортировкой задач по активным и выполненным, с возможностью отметить все.
 
+# Деплой
+```sh
+https://andreigapon.github.io/pptest/#/
+```
 # Бейдж CodeFactor
 [![CodeFactor](https://www.codefactor.io/repository/github/andreigapon/pptest/badge)](https://www.codefactor.io/repository/github/andreigapon/pptest)
 # Стек технологий 
