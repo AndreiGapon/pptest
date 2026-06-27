@@ -12,6 +12,11 @@
   "devDependencies": {
     "live-server": "^1.1.0"
   },
+  "scripts": {
+    "start": "node lib/server.js",
+    "test": "echo \"No tests\" && exit 0",
+    "dev": "live-server"
+  },
   "keywords": [
     "Todo List",
     "TodoMVC",
