@@ -13,10 +13,7 @@
     "decache": "^4.6.0",
     "jsdom": "^26.0.0",
     "jsdom-global": "^3.0.2",
-    "live-server": "^1.1.0",
-    "nyc": "^18.0.0",
-    "tap-nyc": "^1.0.3",
-    "tape": "^5.0.1"
+    "live-server": "^1.1.0"
   },
   "scripts": {
     "check-coverage": "nyc check-coverage --statements 100 --functions 100 --lines 100 --branches 100",
